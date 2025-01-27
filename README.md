@@ -24,7 +24,7 @@
 ## 🔥 Skills:
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,bootstrap,nodejs,react,tailwind,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nodejs,react,tailwind)](https://skillicons.dev)
 
 ###
 ### Tools & Frameworks
