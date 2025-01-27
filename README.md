@@ -1,14 +1,14 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello!
 ## My name is Pedro Luan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working as a Software Developer at Conectra
+- 🌱 I'm focused on TypeScript • JavaScript
 
 ## 💻 GitHub Stats:
 <div>
 <a href="https://github.com/pedrooLuan">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooLuan&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrooLuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooLuan&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="99%" src="https://github-readme-stats.vercel.app/api?username=pedrooLuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 👨‍💻 More about me:
