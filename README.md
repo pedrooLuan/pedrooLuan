@@ -20,3 +20,38 @@
 [![GitHub](https://img.shields.io/badge/pedrooLuan-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/pedrooLuan)](https://github.com/pedrooLuan)
 
 </div>
+
+## 🔥 Skills:
+
+### Programming Languages
+<div align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" alt="typescript logo"  />
+   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="40" alt="javascript logo"  />
+  <img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png)" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="40" alt="tailwind logo"  />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png
+" height="40" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png
+" height="40" alt="node logo"  />
+</div>
+
+###
+### Tools & Frameworks
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png)" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png
+)" height="40" alt="visualstudio logo"  />
+  <img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png
+)" height="40" alt="jira logo"  />
+   <img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png
+)" height="40" alt="jira logo"  />
+</div>
+
+###
