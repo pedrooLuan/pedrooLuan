@@ -4,11 +4,11 @@
 - I’m currently working as a Software Developer at Conectra
 - I'm focused on TypeScript • JavaScript
 
-## 💻 GitHub Stats:
-<div>
-<a href="https://github.com/pedrooLuan">
-<img loading="lazy" height="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooLuan&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="99%" src="https://github-readme-stats.vercel.app/api?username=pedrooLuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## ⚡ Github Stats
+
+<div align="center">
+  <img height="180em" alt="pedrooLuan" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrooLuan&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" alt="pedrooLuan" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooLuan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ## 🌐 Socials
