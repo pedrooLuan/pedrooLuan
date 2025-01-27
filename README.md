@@ -28,15 +28,5 @@
 
 ###
 ### Tools & Frameworks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png)" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)" height="40" alt="visualstudio logo"  />
-  <img src="(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png)" height="40" alt="jira logo"  />
-  <img src="[(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png)](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png)" height="40" alt="mongo logo"  />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="40" alt="visualstudio logo"  />
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ###
