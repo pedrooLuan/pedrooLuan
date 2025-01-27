@@ -24,9 +24,9 @@
 ## 🔥 Skills:
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,bootstrap,nodejs,react,tailwind,&theme=light)](https://skillicons.dev)
 
 ###
 ### Tools & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,androidstudio,bitbucket,docker,mongodb, &perline=3)](https://skillicons.dev)
 ###
