@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/klua517@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klua517@gmail.com)](mailto:klua517@gmail.com)
-[![Linkedin](https://img.shields.io/badge/pedro-luan-rosa-de-souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pedro-luan-rosa-de-souza/)](https://linkedin.com/in/pedro-luan-rosa-de-souza/)
+[![Linkedin](www.linkedin.com/in/pedro-luan-rosa-de-souza-441483160/)
 [![GitHub](https://img.shields.io/badge/pedrooLuan-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/pedrooLuan)](https://github.com/pedrooLuan)
 
 </div>
