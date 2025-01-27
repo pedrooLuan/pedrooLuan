@@ -11,10 +11,12 @@
 <img loading="lazy" height="99%" src="https://github-readme-stats.vercel.app/api?username=pedrooLuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 👨‍💻 More about me:
+## 🌐 Socials
 
-<div>
-<a href="https://instagram.com/pedrooluan_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:klua517@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-luan-rosa-de-souza-441483160/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+
+[![Email](https://img.shields.io/badge/klua517@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klua517@gmail.com)](mailto:klua517@gmail.com)
+[![Linkedin](https://img.shields.io/badge/pedro-luan-rosa-de-souza-441483160-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/omathiasschulz/)](https://linkedin.com/in/omathiasschulz/)
+[![GitHub](https://img.shields.io/badge/pedrooLuan-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/pedrooLuan)](https://github.com/pedrooLuan)
+
 </div>
