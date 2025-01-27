@@ -3,6 +3,7 @@
 
 - I’m currently working as a Software Developer at Conectra
 - I'm focused on TypeScript • JavaScript
+- I'm currently studying Software Engineering in Unicesumar.
 
 ## ⚡ Github Stats
 
